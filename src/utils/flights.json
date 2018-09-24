@@ -1,0 +1,43 @@
+{
+    "flights": [
+        {
+            "airlineId"          : "TK-202",
+            "sourceAirportId"    : "Ist",
+            "sourceCity"         : "Istanbul",
+            "destAirportId"      : "Dub",
+            "destCity"           : "Dublin",
+            "stops"              : 0,
+            "scheduledDeparture" : "2018-08-04T19:43:37+0100",
+            "scheduledArrival"   : "2018-08-04T19:43:37+0100",
+            "travelCost"         : 1200,
+            "totalSeats"         : 150,
+            "availableSeats"     : 2
+        },
+        {
+            "airlineId"          : "TK-204",
+            "sourceAirportId"    : "Ist",
+            "sourceCity"         : "Istanbul",
+            "destAirportId"      : "Dub",
+            "destCity"           : "Dublin",
+            "stops"              : 0,
+            "scheduledDeparture" : "2018-08-04T19:43:37+0100",
+            "scheduledArrival"   : "2018-08-04T19:43:37+0100",
+            "travelCost"         : 1600,
+            "totalSeats"         : 100,
+            "availableSeats"     : 2
+        },
+        {
+            "airlineId"          : "TK-204",
+            "sourceAirportId"    : "Ist",
+            "sourceCity"         : "Istanbul",
+            "destAirportId"      : "Dub",
+            "destCity"           : "Dublin",
+            "stops"              : 0,
+            "scheduledDeparture" : "2018-08-06T19:43:37+0100",
+            "scheduledArrival"   : "2018-08-20T19:43:37+0100",
+            "travelCost"         : 2600,
+            "totalSeats"         : 300,
+            "availableSeats"     : 2
+        }
+    ]
+}

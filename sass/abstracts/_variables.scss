@@ -1,0 +1,22 @@
+//defaults
+$colorBlack:        #000;
+$colorWhite:        #fff;
+$colorGrey:         #f8f8f8;
+$colorSilver:       #c3bebe;
+$colorIndigo:       #001064;
+$colorRed:          #FF0000;
+
+//scaffolding
+$textColor:         #000;
+
+
+//responsive-layout
+$screen-min:			320px;
+$screen-small:			640px;
+$screen-normal:			768px;
+$screen-content:        980px;
+
+$query-mobil:			"( min-width : #{$screen-min} )";
+$query-tabletmin: 		"( min-width : #{$screen-small} )";
+$query-tablet: 			"( min-width : #{$screen-normal} )";
+$query-desktop:			"( min-width : #{$screen-content} )";

@@ -1,0 +1,17 @@
+.flight-container {
+
+    @media #{$query-desktop} {
+        width: 850px;
+        margin: 0 auto;
+    }
+
+    .flight-header {
+        background: $colorGrey;
+        padding: 10px;
+    }
+
+    .fd-container {
+        border:1px solid $colorBlack;
+        padding: 10px;
+    }
+}
